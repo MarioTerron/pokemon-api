@@ -1,6 +1,6 @@
 # Building a RESTful API in Node and Express
 
-Using the Express to build an API
+Using the Express to build an API (for demo purposes). 
 
 ## Requirements
 
