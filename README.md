@@ -8,7 +8,7 @@ Using the Express to build an API
 
 ## Installation
 
-- Clone the repo: `git clone git@github.com:scotch-io/node-api`
+- Clone the repo: `https://github.com/MarioTerron/pokemon-api.git`
 - Install dependencies: `npm install`
 - Start the server: `node start`
 
